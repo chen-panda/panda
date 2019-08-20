@@ -1,0 +1,7 @@
+<!--page/index.wxml-->
+
+<view class="head"><text class="test">Hello World!</text>
+</view>
+<button class="button"> star</button>
+
+
