@@ -1,6 +1,6 @@
 <!--page/index.wxml-->
 
-<view class="head"><text class="test">Hello World!</text>
+<view class="head"><text class="test">Hello World!ABC</text>
 </view>
 <button class="button"> star</button>
 
